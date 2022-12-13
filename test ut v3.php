@@ -19,6 +19,6 @@
     }
 
     // silahkan input parameter nomor lantai 
-    echo 'Lt. ' . dataGedungLoker(19);
+    echo 'Lt. ' . dataGedungLoker(3);
 ?>
 
